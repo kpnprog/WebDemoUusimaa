@@ -1,0 +1,7 @@
+C:\CodeBootcamp\WebDemoUusimaa\SQLtesti\SQLtesti\obj\Debug\SQLtesti.csprojAssemblyReference.cache
+C:\CodeBootcamp\WebDemoUusimaa\SQLtesti\SQLtesti\obj\Debug\SQLtesti.csproj.CoreCompileInputs.cache
+C:\CodeBootcamp\WebDemoUusimaa\SQLtesti\SQLtesti\bin\Debug\SQLtesti.exe.config
+C:\CodeBootcamp\WebDemoUusimaa\SQLtesti\SQLtesti\bin\Debug\SQLtesti.exe
+C:\CodeBootcamp\WebDemoUusimaa\SQLtesti\SQLtesti\bin\Debug\SQLtesti.pdb
+C:\CodeBootcamp\WebDemoUusimaa\SQLtesti\SQLtesti\obj\Debug\SQLtesti.exe
+C:\CodeBootcamp\WebDemoUusimaa\SQLtesti\SQLtesti\obj\Debug\SQLtesti.pdb

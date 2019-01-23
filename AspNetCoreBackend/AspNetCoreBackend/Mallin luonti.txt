@@ -1,0 +1,2 @@
+﻿aja seuraava komento package consolessa:
+Scaffold-komento
